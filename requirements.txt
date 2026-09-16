@@ -9,6 +9,7 @@ langgraph
 chromadb
 sentence-transformers
 pypdf
+python-docx
 python-dotenv
 google-generativeai
 langchain-google-genai
