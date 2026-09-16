@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain-chroma
 langgraph
 chromadb
 sentence-transformers
